@@ -1,3 +1,4 @@
+//dsadas
 class Node {
   constructor (value) {
     this.value = value
